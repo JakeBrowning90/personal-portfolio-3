@@ -3329,3 +3329,7 @@ body.is-touch .poptrox-popup .closer {
 #three ul li {
   padding-right: 15px;
 }
+
+.footerIcon {
+  height: 25px;
+}
