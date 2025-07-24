@@ -3333,3 +3333,14 @@ body.is-touch .poptrox-popup .closer {
 .footerIcon {
   height: 25px;
 }
+
+div.article-heading {
+  /* background-color: pink; */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.fa-github {
+  color: #787878;
+}
